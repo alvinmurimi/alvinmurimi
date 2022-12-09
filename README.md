@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <!--
 [![Alvin's github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmurimi&langs_count=5&theme=radical)](https://github.com/alvinmurimi)-->
 
-[![Alvin's github activity graph](https://activity-graph.herokuapp.com/graph?username=alvinmurimi&theme=react-dark)](https://github.com/alvinmurimi)
+[![Alvin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alvinmurimi&theme=react-dark)](https://github.com/alvinmurimi)
