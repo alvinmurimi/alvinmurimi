@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Alvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alvinmurimi&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/alvinmurimi)
 
 
-[![Alvin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alvinmurimi&theme=react-dark)](https://github.com/alvinmurimi)
+<!--[![Alvin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alvinmurimi&theme=react-dark)](https://github.com/alvinmurimi)-->
